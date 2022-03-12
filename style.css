@@ -1,0 +1,28 @@
+/*
+#principal {
+    width: 800px;
+    height: 400px;
+    background-color: blue;
+}
+*/
+
+p {
+    color: red;
+}
+
+h1 {
+    color: blue;
+    background-color: aquamarine;
+}
+
+h2 {
+    display: none;
+    
+}
+
+div {
+    width: 150px; /*ancho */
+    height: 80px; /*alto*/
+    background-color: yellow;
+
+}
