@@ -98,6 +98,8 @@ console.log(capturaValor1)
 console.log(capturaValor2)
 console.log(capturarBtn3)
 
+console.log("hola probando git")
+
 
 
 
